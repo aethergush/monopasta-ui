@@ -1,4 +1,3 @@
-```
  __   __  _______  __    _  _______          _______  _______  _______  _______  _______              __   __  ___  
 |  |_|  ||       ||  |  | ||       |        |       ||   _   ||       ||       ||   _   |            |  | |  ||   | 
 |       ||   _   ||   |_| ||   _   |        |    _  ||  |_|  ||  _____||_     _||  |_|  |            |  | |  ||   | 
@@ -6,16 +5,17 @@
 |       ||  |_|  ||  _    ||  |_|  |        |    ___||       ||_____  |  |   |  |       |            |       ||   | 
 | ||_|| ||       || | |   ||       |        |   |    |   _   | _____| |  |   |  |   _   |            |       ||   | 
 |_|   |_||_______||_|  |__||_______|        |___|    |__| |__||_______|  |___|  |__| |__|            |_______||___|     
-```
 
 
-                         ———  A weird and cool UI for a website (and for MY upcoming website). ———
+                       ———  A weird and cool UI for a website (and for MY upcoming website). ———
 
 Welcome, I guess. You're here, so...
 
-Monopasta (hello the weird name!) is a more or less simple user interface for the web. It includes, built-in, a few cool stuff:
+Monopasta (hello the weird name!) is a more or less simple user interface for the web. 
+It includes, built-in, a few cool stuff:
 
-  • A nice default and responsive page, with a really cool menu and a hamburger icon animation (so it maaaaagically transforms into an 'x' shape);
+  • A nice default and responsive page, with a really cool menu and a hamburger icon animation (so it 
+    maaaaagically transforms into an 'x' shape);
   • Cool colors which you can (and hopefully will) change; and ...
   • Other random built-in stuff like a completely different and weird table.
 
